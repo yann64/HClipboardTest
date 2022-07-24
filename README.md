@@ -1,2 +1,2 @@
 # HClipboardTest
-Sample code showing how t interact with the Haiku clipboard
+Sample code showing how to interact with the Haiku clipboard
